@@ -2,5 +2,5 @@
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
-## Esto en local
+## Quito local
 Quito lo añadido desde GitHub.
